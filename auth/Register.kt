@@ -1,1 +1,1 @@
-//WIP: registration form (незавершенная)
+//WIP: registration form
