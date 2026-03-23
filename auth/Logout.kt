@@ -1,1 +1,2 @@
-// feat: logout module
+// feat: logoutUser module
+/** Logout user */
